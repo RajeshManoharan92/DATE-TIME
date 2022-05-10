@@ -1,0 +1,7 @@
+Git Hub link : https://github.com/RajeshManoharan92/DATE-TIME
+
+Heroku deployed Link : https://date-time-final.herokuapp.com/date/get
+
+End-Points:  http://localhost:3000/date/get        // for getting datas
+             http://localhost:3000/date/post       // for posting datas
+		
